@@ -13,6 +13,9 @@ public class Main{
   System.out.println(name.equals(anothername));
   String fullname == name + "Sardiwal";
   System.out.println(fullname);
+
+  name = name + "Sardiwal";
+  System.out.println(name);
     
   }
 }
